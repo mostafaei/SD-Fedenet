@@ -1,7 +1,6 @@
 #############################################################################
 ###
-### SDFedenet: A framework for multi‐provider virtual private networks in 
-### software‐defined federated networks(https://doi.org/10.1002/nem.2116)
+### [SDFedenet: A framework for multi‐provider virtual private networks in software‐defined federated networks](https://doi.org/10.1002/nem.2116)
 ###
 ### The DNS part of this software has been developed by Habib Mostafaei
 ### on top of SDN-VPN project within the research line described at
