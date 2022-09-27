@@ -16,11 +16,3 @@ including: OpenvSwitch, Ryu, and Bind. We provide the backbone
 configuration to run our experiments as well as providing a script to 
 generate a set of customized end hosts for each customer and a script 
 to test our controllers.
-
-=== GETTING STARTED ===
-
-1. Install the experimental version of NetKit.
-
-You can find all documents for installing NetKit in the below link;
-
-http://wiki.netkit.org/index.php/Download_Official
